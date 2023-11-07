@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "d9771b219a939bf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb9aa7d6c34dbb18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf941a417c095298",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/spring-tx.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c55344011c5c4f9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7867f1bc01b1f2be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/spring-tx.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f658889d1f137b1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d97df3e00201b9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0474500be968c36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "532a3eb214c7ea54",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec0f8cf7a283f6c0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "46acf1cce0b89f04",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a4d4c57ac8cc3e2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ec208f81267dbf4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0bebb902a71f5dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "日记/spring-tx.md"
+              }
+            }
+          },
+          {
+            "id": "d943001511bd07b8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a6920fd46ff57282",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "1ad26f84a0455800",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "a732c445e01d48a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e5c0454388c1761",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "日记/spring-tx.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e5ee7683692b37f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0dc45f658c380b5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "日记/spring-tx.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e191b2726bed1c1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef41441f4270acdc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 370
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-day-planner:Timeline": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "cf941a417c095298",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-11-07 22.16.26.excalidraw.md",
+    "日记/spring-tx.md",
+    "Excalidraw",
+    "日记/测试一下.md",
+    "未命名",
+    "日记",
+    "@模板/日记模板.md",
+    "@模板/周记模板.md",
+    "周记/未命名.md",
+    "周记",
+    "日记",
+    "@模板/未命名.md",
+    "002.工作/工作记录/日报/日报：2023年5月18日.md",
+    "003.自我/日记/日记：2023年5月18日.md",
+    "003.自我/周记/周记：2023年20周.md",
+    "@模板/工作记录/日报模板.md",
+    "003.自我/日记",
+    "003.自我/排期计划.md",
+    "003.自我/周记",
+    "003.自我",
+    "002.工作/工作记录/日报",
+    "002.工作/工作记录",
+    "未命名.md",
+    "未命名.canvas",
+    "日记/2023-10-25.md",
+    "测试.md",
+    "未命名 1.canvas"
+  ]
+}
