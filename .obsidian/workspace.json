@@ -16,8 +16,8 @@
                 "file": ".obsidian/plugins/editing-toolbar/data.json",
                 "staged": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (data.json)"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           }
         ]
@@ -79,8 +79,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           }
         ]
@@ -117,8 +117,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -127,8 +127,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -137,8 +137,8 @@
             "state": {
               "type": "timeline",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Day Planner Timeline"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -147,12 +147,22 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "0029d404a832f38b",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "a732c445e01d48a2",
@@ -231,11 +241,10 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "templater-obsidian:Templater": false,
-      "obsidian-day-planner:Timeline": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "c36e0486e94f90c7",
+  "active": "0029d404a832f38b",
   "lastOpenFiles": [
     "日记/spring-tx.md",
     "Excalidraw/Drawing 2023-11-07 22.40.16.excalidraw.md",
