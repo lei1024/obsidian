@@ -1,0 +1,274 @@
+{
+  "main": {
+    "id": "d9771b219a939bf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "32dd5007b5eeac8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c36e0486e94f90c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/spring-tx.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "spring-tx"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f658889d1f137b1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d97df3e00201b9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0474500be968c36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "532a3eb214c7ea54",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ec0f8cf7a283f6c0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "46acf1cce0b89f04",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a4d4c57ac8cc3e2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ec208f81267dbf4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0bebb902a71f5dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "日记/spring-tx.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "spring-tx 的大纲"
+            }
+          },
+          {
+            "id": "d943001511bd07b8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "a6920fd46ff57282",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "efbe0a128aa5d397",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Day Planner Timeline"
+            }
+          },
+          {
+            "id": "ce36428b148e696a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "a732c445e01d48a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e5c0454388c1761",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "日记/spring-tx.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "spring-tx 的反向链接列表"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e5ee7683692b37f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0dc45f658c380b5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "日记/spring-tx.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "spring-tx 的出链列表"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e191b2726bed1c1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef41441f4270acdc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 370
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-day-planner:Timeline": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "c36e0486e94f90c7",
+  "lastOpenFiles": [
+    "日记/spring-tx.md",
+    "Excalidraw/Drawing 2023-11-07 22.40.16.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-07 22.16.26.excalidraw.md",
+    "Excalidraw",
+    "日记/测试一下.md",
+    "未命名",
+    "日记",
+    "@模板/日记模板.md",
+    "@模板/周记模板.md",
+    "周记/未命名.md",
+    "周记",
+    "日记",
+    "@模板/未命名.md",
+    "002.工作/工作记录/日报/日报：2023年5月18日.md",
+    "003.自我/日记/日记：2023年5月18日.md",
+    "003.自我/周记/周记：2023年20周.md",
+    "@模板/工作记录/日报模板.md",
+    "003.自我/日记",
+    "003.自我/排期计划.md",
+    "003.自我/周记",
+    "003.自我",
+    "002.工作/工作记录/日报",
+    "002.工作/工作记录",
+    "未命名.md",
+    "未命名.canvas",
+    "日记/2023-10-25.md",
+    "测试.md",
+    "未命名 1.canvas"
+  ]
+}
