@@ -13,11 +13,11 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/workspace.json",
+                "file": ".obsidian/plugins/editing-toolbar/data.json",
                 "staged": false
               },
               "icon": "git-pull-request",
-              "title": "Diff View (workspace.json)"
+              "title": "Diff View (data.json)"
             }
           }
         ]
