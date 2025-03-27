@@ -16,11 +16,22 @@
                 "file": ".obsidian/plugins/editing-toolbar/data.json",
                 "staged": false
               },
+              "icon": "git-pull-request",
+              "title": "Diff View"
+            }
+          },
+          {
+            "id": "fdd68bccb9e2ca34",
+            "type": "leaf",
+            "state": {
+              "type": "planner-release-notes",
+              "state": {},
               "icon": "lucide-file",
-              "title": "插件不再活动"
+              "title": "Day Planner Release 0.27.0"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,11 +90,22 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "d1cc7d2aef21f0a1",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -122,26 +144,6 @@
             }
           },
           {
-            "id": "a6920fd46ff57282",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
-            }
-          },
-          {
-            "id": "efbe0a128aa5d397",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
-            }
-          },
-          {
             "id": "ce36428b148e696a",
             "type": "leaf",
             "state": {
@@ -153,6 +155,26 @@
           },
           {
             "id": "0029d404a832f38b",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          },
+          {
+            "id": "ad85567b0e9133eb",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "6dbb4b523e5eccea",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -241,10 +263,14 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "templater-obsidian:Templater": false,
-      "obsidian-day-planner:Timeline": false
+      "obsidian-day-planner:Timeline": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "0029d404a832f38b",
+  "active": "6dbb4b523e5eccea",
   "lastOpenFiles": [
     "日记/spring-tx.md",
     "Excalidraw/Drawing 2023-11-07 22.40.16.excalidraw.md",
